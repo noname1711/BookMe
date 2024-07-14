@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_customdialog">
+
+    <ImageButton
+        android:id="@+id/btnThoat"
+        android:layout_width="38dp"
+        android:layout_height="62dp"
+        android:background="#75042A"
+        android:scaleType="fitXY"
+        android:layout_gravity="right"
+        android:src="@drawable/close" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:scaleType="fitXY"
+        android:src="@drawable/hehe" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:text="Nào ngồi sau xe mik đi chill tí khum =))"
+        android:textStyle="italic"
+        android:textColor="#16E11E"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/btnThamGia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/layouttest"
+        android:text="Đồng ý đi mờ T_T"
+        android:textStyle="italic" />
+
+</LinearLayout>

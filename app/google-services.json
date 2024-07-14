@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "115284743918",
+    "firebase_url": "https://hehe-610a7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hehe-610a7",
+    "storage_bucket": "hehe-610a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115284743918:android:287f93675d6d6363cb85ff",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNaycbhDv66ab8yl1o0KMd7pW9a53qvUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
